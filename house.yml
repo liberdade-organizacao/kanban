@@ -1,0 +1,4 @@
+---
+build:
+    commands:
+    - go test github.com/liberdade-organizacao/kanban
